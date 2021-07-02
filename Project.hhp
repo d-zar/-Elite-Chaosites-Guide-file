@@ -1,7 +1,7 @@
 [OPTIONS]
 Auto Index=Yes
 Compatibility=1.1 or later
-Compiled file=Project.chm
+Compiled file=Release\Project.chm
 Contents file=ToC.hhc
 Default topic=Pages\Intro.htm
 Display compile progress=Yes
