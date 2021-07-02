@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&Auml;&icirc;&aacute;&eth;&icirc; &iuml;&icirc;&aelig;&agrave;&euml;&icirc;&acirc;&agrave;&ograve;&uuml;">
+		<param name="Local" value="Pages\Intro.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Iuml;&eth;&agrave;&acirc;&egrave;&euml;&agrave;">
+			<param name="Local" value="Pages\Rules.htm">
+			<param name="URL" value="Pages\Rules.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="FAQ">
+			<param name="Local" value="Pages\FAQ.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&Icirc; &ecirc;&agrave;&iacute;&agrave;&euml;&agrave;&otilde;">
+		<param name="Local" value="Pages\Chanels.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Yacute;&euml;&egrave;&ograve;&iacute;&ucirc;&aring; &Ecirc;&agrave;&iacute;&agrave;&euml;&ucirc;">
+			<param name="Local" value="Pages\Chanels\Elite_Chanels.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Egrave;&iacute;&ocirc;&icirc;&eth;&igrave;&agrave;&ouml;&egrave;&icirc;&iacute;&iacute;&ucirc;&aring; &Ecirc;&agrave;&iacute;&agrave;&euml;&ucirc;">
+			<param name="Local" value="Pages\Chanels\Info_Chanels.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Ograve;&aring;&igrave;&agrave;&ograve;&egrave;&divide;&aring;&ntilde;&ecirc;&egrave;&aring; &Ecirc;&agrave;&iacute;&agrave;&euml;&ucirc;">
+			<param name="Local" value="Pages\Chanels\Thematic_Chanels.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Ecirc;&agrave;&iacute;&agrave;&euml;&ucirc; &Ntilde;&iuml;&aring;&ouml;&egrave;&agrave;&euml;&uuml;&iacute;&icirc;&atilde;&icirc; &Iacute;&agrave;&ccedil;&iacute;&agrave;&divide;&aring;&iacute;&egrave;&yuml;">
+			<param name="Local" value="Pages\Chanels\Special_Chanels.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&Aacute;&aring;&ntilde;&ograve;&egrave;&agrave;&eth;&egrave;&eacute;">
+		<param name="Local" value="Pages\Bestiary.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Icirc; &eth;&icirc;&euml;&yuml;&otilde;">
+			<param name="Local" value="Pages\Bestiary\Roles.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Agrave;&auml;&igrave;&egrave;&iacute;&egrave;&ntilde;&ograve;&eth;&agrave;&ouml;&egrave;&yuml;">
+			<param name="Local" value="Pages\Bestiary\Admins.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&Iuml;&eth;&icirc;&otilde;&icirc;&aelig;&auml;&aring;&iacute;&egrave;&aring;">
+		<param name="Local" value="Pages\Guide.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Iuml;&eth;&egrave;&aacute;&ucirc;&ograve;&egrave;&aring;">
+			<param name="Local" value="Pages\Guide\Begin.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&Agrave;&euml;&ntilde;&icirc;">
+		<param name="Local" value="Pages\Also.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Ntilde;&acirc;&yuml;&ccedil;&agrave;&iacute;&iacute;&ucirc;&aring; &Icirc;&eth;&atilde;&agrave;&iacute;&egrave;&ccedil;&agrave;&ouml;&egrave;&egrave;">
+			<param name="Local" value="Pages\Also\Associated.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&Auml;&icirc;&ntilde;&ecirc;&agrave; &iuml;&icirc;&divide;&cedil;&ograve;&agrave;">
+			<param name="Local" value="Pages\Also\Hall of Fame.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

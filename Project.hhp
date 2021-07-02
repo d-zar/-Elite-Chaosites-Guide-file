@@ -1,0 +1,16 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=Project.chm
+Contents file=ToC.hhc
+Default topic=Pages\Intro.htm
+Display compile progress=Yes
+Enhanced decompilation=Yes
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x419 Русский (Россия)
+Title=Гайд по Дискорду ЭХ
+
+
+[INFOTYPES]
+
